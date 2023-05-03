@@ -7,10 +7,11 @@ Full-stack Developer
 Hello! I'm a full-stack developer with a focus on building web applications. I love working with modern technologies and learning new skills. Let's create something innovative and impactful together! Feel free to connect with me and explore my projects.
 
 *   🌍  I'm based in Phuket, Thailand
-*   ✉️  You can contact me at [ghostza1209@gmail.com](mailto:ghostza1209@gmail.com)<a href="https://www.github.com/ghostza1209" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ghostza1209?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ghostza1209" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/ghostza1209?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+*   ✉️  You can contact me at [ghostza1209@gmail.com](mailto:ghostza1209@gmail.com)<a href="https://www.github.com/ghostza1209" target="_blank" rel="noreferrer" />
+
+
+                
+ ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -48,5 +49,3 @@ Hello! I'm a full-stack developer with a focus on building web applications. I l
                   
  <p align="left">
  <a href="https://www.github.com/ghostza1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.medium.com/@ghostza1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ghostza1209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
- 
- ### Badges
