@@ -15,27 +15,12 @@
 
 <br/>
 
-```php
-<?php
+<div align="center">
 
-class Yoss extends Developer
-{
-    public string $role     = 'Full-stack developer';
-    public string $focus    = 'Building web applications';
-    public string $specialty = 'Laravel';
-    public string $funFact  = "I'm a funny guy";
+Full-stack developer building web applications, specializing in Laravel.<br/>
+Always learning modern technologies and new skills.
 
-    public function learning(): string
-    {
-        return 'Modern technologies and new skills, always.';
-    }
-
-    public function contact(): string
-    {
-        return 'ghostza1209@gmail.com';
-    }
-}
-```
+</div>
 
 ## 📊 GitHub stats
 
