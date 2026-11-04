@@ -37,27 +37,6 @@ class Yoss extends Developer
 }
 ```
 
-## ⚙️ Tech stack
-
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,graphql,mysql,postgres,redis,elasticsearch&theme=dark" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,redux,tailwind,sass,bootstrap,html,css&theme=dark" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash,git&theme=dark" alt="DevOps" /></td>
-  </tr>
-  <tr>
-    <td><b>Testing &amp; tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,cypress,postman,webpack,babel&theme=dark" alt="Testing and tools" /></td>
-  </tr>
-</table>
-
 ## 📊 GitHub stats
 
 <div align="center">
