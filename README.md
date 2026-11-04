@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yoss&fontSize=80&fontColor=ffffff&fontAlignY=40&desc=ghostza1209&descAlignY=62&descSize=20" alt="Yoss — ghostza1209" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Full-stack+developer;Building+web+applications;Laravel+lover+%F0%9F%91%BB" alt="Full-stack developer · Building web applications · Laravel lover" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Full-stack+developer;Building+web+applications;Specializing+in+Laravel" alt="Full-stack developer · Building web applications · Specializing in Laravel" />
 
 <br/>
 
 <a href="mailto:ghostza1209@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://twitter.com/ghostza1209"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://x.com/ghostza1209"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://medium.com/@ghostza1209"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 <img src="https://komarev.com/ghpvc/?username=ghostza1209&label=Profile%20views&color=302b63&style=flat-square" alt="Profile views" />
 
@@ -22,7 +22,7 @@ class Yoss extends Developer
 {
     public string $role     = 'Full-stack developer';
     public string $focus    = 'Building web applications';
-    public string $favorite = 'Laravel';
+    public string $specialty = 'Laravel';
     public string $funFact  = "I'm a funny guy";
 
     public function learning(): string
